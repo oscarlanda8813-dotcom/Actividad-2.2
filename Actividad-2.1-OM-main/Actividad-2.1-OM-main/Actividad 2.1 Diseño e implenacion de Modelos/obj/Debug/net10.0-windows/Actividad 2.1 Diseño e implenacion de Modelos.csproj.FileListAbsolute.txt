@@ -1,0 +1,23 @@
+C:\Users\USER\Desktop\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.Form1.resources
+C:\Users\USER\Desktop\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.AssemblyInfo.cs
+C:\Users\USER\Desktop\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmPrincipal.resources
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.csproj.GenerateResource.cache
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.AssemblyInfo.cs
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.exe
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.deps.json
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.runtimeconfig.json
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.dll
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.pdb
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.dll
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\refint\Actividad 2.1 Diseño e implenacion de Modelos.dll
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.pdb
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.genruntimeconfig.cache
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\ref\Actividad 2.1 Diseño e implenacion de Modelos.dll
+C:\Users\marco\Downloads\Actividad-2.1-OM-main\Actividad-2.1-OM-main\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Activida.8CD5BCA4.Up2Date
